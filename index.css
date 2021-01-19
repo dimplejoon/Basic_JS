@@ -1,5 +1,7 @@
 body {
   background-color: paleturquoise;
+  margin-left: 550px;
+  margin-top: 150px;
 }
 
 .btn {
@@ -7,7 +9,9 @@ body {
 }
 
 body {
-  color: rgb(245, 89, 245);
+  color: rgb(240, 69, 240);
+  text-decoration-line: underline;
+  font-size: 15px;
 }
 
 .clicked {
